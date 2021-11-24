@@ -17,8 +17,11 @@
   "scripts": {
     "semantic-release": "semantic-release"
   },
-  "author": "",
-  "license": "MIT",
+  "author": "Lime Techologies",
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
