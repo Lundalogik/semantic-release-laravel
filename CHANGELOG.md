@@ -4,6 +4,14 @@
 ### Features
 
 * initial commit ([9b7f1a6](https://github.com/Lundalogik/semantic-release-laravel/commit/9b7f1a679310aa531e2e088bd67cf5720ea81c61))
+* publish public ([41b7b7b](https://github.com/Lundalogik/semantic-release-laravel/commit/41b7b7b207879db5bfe76495c326bc4e13214c61))
+
+# 1.0.0 (2021-11-24)
+
+
+### Features
+
+* initial commit ([9b7f1a6](https://github.com/Lundalogik/semantic-release-laravel/commit/9b7f1a679310aa531e2e088bd67cf5720ea81c61))
 * publish public ([c93b49b](https://github.com/Lundalogik/semantic-release-laravel/commit/c93b49bd811b480d41282dcb466a2b289e15dc56))
 
 # 1.0.0 (2021-11-24)
