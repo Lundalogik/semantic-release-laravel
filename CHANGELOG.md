@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.1.0...v1.2.0) (2021-11-24)
+
+
+### Features
+
+* include gh-actions example in Readme ([bf0fa9f](https://github.com/Lundalogik/semantic-release-laravel/commit/bf0fa9f264a061f560c6d01934f3dbd5ca2feda4))
+
 # [1.1.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.0.0...v1.1.0) (2021-11-24)
 
 

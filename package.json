@@ -1,6 +1,6 @@
 {
   "name": "@limetech/semantic-release-laravel",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "semantic-release shareable config to publish lime php",
   "main": "index.js",
   "dependencies": {
