@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.0.0...v1.1.0) (2021-11-24)
+
+
+### Features
+
+* update README.md ([aba0655](https://github.com/Lundalogik/semantic-release-laravel/commit/aba0655565800ddba3f308e60f27558433c47f20))
+
 # 1.0.0 (2021-11-24)
 
 
