@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.5.0...v1.6.0) (2021-11-25)
+
+
+### Features
+
+* I am dump that I forgot the one line makes all the magic ([867a4f0](https://github.com/Lundalogik/semantic-release-laravel/commit/867a4f097da2cc2b992851329972ff559ec7ae3e))
+
 # [1.5.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.4.0...v1.5.0) (2021-11-25)
 
 
