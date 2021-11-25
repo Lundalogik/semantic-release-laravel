@@ -5,7 +5,7 @@ module.exports = {
     [
       '@semantic-release/exec',
       {
-        prepareCmd: "[ -f './composer.json' ] && $(cat <<< $(jq  --arg v ${nextRelease.version} '.version=$v' ./composer.json ) > ./composer.json) || echo 'composer.json dont exists skipping' && [ -f './package.json' ] && $(cat <<< $(jq  --arg v ${nextRelease.version} '.version=$v' ./package.jso ) > ./package.jso) || echo 'package.jso dont exists skipping'"
+        prepareCmd: "[ -f './composer.json' ] && $(cat <<< $(jq  --arg v ${nextRelease.version} '.version=$v' ./composer.json ) > ./composer.json) || echo 'composer.json dont exists skipping' && [ -f './package.json' ] && $(cat <<< $(jq  --arg v ${nextRelease.version} '.version=$v' ./package.json ) > ./package.json) || echo 'package.json dont exists skipping'"
       },
     ],
     [
@@ -21,7 +21,7 @@ module.exports = {
     [
       '@semantic-release/git',
       {
-        assets: ['pyproject.toml', 'setup.py'],
+        assets: ['composer.json', 'package.json'],
         message:
           'chore(release): ${nextRelease.version}\n\n${nextRelease.notes}',
       },
