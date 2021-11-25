@@ -13,6 +13,7 @@ function fileExists(filepath) {
 }
 
 function writeToFile(filepath, data, version){
+  data.version = version
   fs.writeFile(filepath, JSON.stringify(data, null, 4),
       // callback function that is called after writing file is done
       function(err) {
@@ -30,6 +31,7 @@ function bumpThatVesion(filepath, version){
               console.log(chalk.error(`Could not read data from file!`));
               exit(1)
             }
+            data.version = version;
             return writeToFile(filepath, JSON.parse(data), version)
     });
   } catch (e) {
