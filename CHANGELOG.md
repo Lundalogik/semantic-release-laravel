@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.3.0...v1.4.0) (2021-11-25)
+
+
+### Features
+
+* publish from master ([e5b210b](https://github.com/Lundalogik/semantic-release-laravel/commit/e5b210b1b6ce4acd5fcc2a7c4bb5365018e0b4df))
+
 # [1.3.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.2.0...v1.3.0) (2021-11-25)
 
 
