@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.4.0...v1.5.0) (2021-11-25)
+
+
+### Features
+
+* intermal cli cmds ([5256ffc](https://github.com/Lundalogik/semantic-release-laravel/commit/5256ffc7ecdf8472850da1bae5e777360cf52da2))
+
 # [1.4.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.3.0...v1.4.0) (2021-11-25)
 
 
