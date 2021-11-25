@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.2.0...v1.3.0) (2021-11-25)
+
+
+### Features
+
+* make PrepareCmd work ([6474187](https://github.com/Lundalogik/semantic-release-laravel/commit/64741879912003786701ea605958ac8a20ad1f03))
+
 # [1.2.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.1.0...v1.2.0) (2021-11-24)
 
 
