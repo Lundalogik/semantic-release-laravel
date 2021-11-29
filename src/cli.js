@@ -48,5 +48,9 @@ argv.command(
     if (fileExists('./composer.json')) {
         bumpThatVesion('./composer.json', argv._[1])
     }
+    if (fileExists('./package.json')) {
+        bumpThatVesion('./package.json', argv._[1])
+    }
+
   }
 ).argv;
