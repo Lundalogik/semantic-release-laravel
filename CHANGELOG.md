@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.6.0...v1.7.0) (2021-11-29)
+
+
+### Features
+
+* include package.json as well ([9228b26](https://github.com/Lundalogik/semantic-release-laravel/commit/9228b26bcbcd9f0068df77e3ef527ed32a516aea))
+
 # [1.6.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.5.0...v1.6.0) (2021-11-25)
 
 
