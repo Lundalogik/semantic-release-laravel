@@ -1,5 +1,5 @@
 ## Description
-In order to have semantic release for Laravel projects.
+In order to have semantic release for Laravel projects .
 Change the version in packages.json and composer.json
 
 ## Install
