@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.8.0...v1.8.1) (2022-02-01)
+
+
+### Bug Fixes
+
+* upgrade version rendering ([274c206](https://github.com/Lundalogik/semantic-release-laravel/commit/274c2064324b45231a8e4e21ac7422d192f53d37))
+
 # [1.8.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.7.0...v1.8.0) (2022-02-01)
 
 
