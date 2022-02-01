@@ -3,6 +3,19 @@ const argv = require("yargs");
 const chalk = require("chalk");
 const fs = require("fs");
 
+
+function parseVersion(str) {
+    // parse version ... and even there is dev/beta etc 
+    // composer fails 2.6.0-dev.4!
+    if (typeof(str) != 'string') { return false; }
+    var arr = str.split('.');
+    // parse int or default to 0
+    var maj = parseInt(arr[0]) || 0;
+    var min = parseInt(arr[1]) || 0;
+    var rest = parseInt(arr[2]) || 0;
+    return `${maj}.${min}.${rest}`
+}
+
 function fileExists(filepath) {
   // check if file exists
   if(fs.existsSync(filepath)) {
@@ -31,7 +44,7 @@ function bumpThatVesion(filepath, version){
               console.log(chalk.error(`Could not read data from file!`));
               exit(1)
             }
-            data.version = version;
+            data.version = parseVersion(version);
             return writeToFile(filepath, JSON.parse(data), version)
     });
   } catch (e) {
