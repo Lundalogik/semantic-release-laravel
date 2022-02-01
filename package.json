@@ -1,6 +1,6 @@
 {
   "name": "@limetech/semantic-release-laravel",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "bin": {
     "semantic-release-laravel": "./src/cli.js"
   },

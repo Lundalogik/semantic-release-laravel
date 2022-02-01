@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.7.0...v1.8.0) (2022-02-01)
+
+
+### Features
+
+* dev version to simple one ([2f483d5](https://github.com/Lundalogik/semantic-release-laravel/commit/2f483d5f7bba241a3934d2f73d9da1946cf78b19))
+
 # [1.7.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.6.0...v1.7.0) (2021-11-29)
 
 
