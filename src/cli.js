@@ -44,7 +44,8 @@ function bumpThatVesion(filepath, version){
               console.log(chalk.error(`Could not read data from file!`));
               exit(1)
             }
-            data.version = parseVersion(version);
+            version = parseVersion(version);
+            data.version = version;
             return writeToFile(filepath, JSON.parse(data), version)
     });
   } catch (e) {
