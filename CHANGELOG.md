@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.8.1...v1.9.0) (2022-02-01)
+
+
+### Features
+
+* again new release is not published ([c90b728](https://github.com/Lundalogik/semantic-release-laravel/commit/c90b728bce46e493c2874ba29f0258c6d9423290))
+
 ## [1.8.1](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.8.0...v1.8.1) (2022-02-01)
 
 
