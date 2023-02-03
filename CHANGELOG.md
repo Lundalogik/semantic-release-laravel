@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.9.0...v1.10.0) (2023-02-03)
+
+
+### Features
+
+* support metadata.json file ([6f4117f](https://github.com/Lundalogik/semantic-release-laravel/commit/6f4117fd4d7710d91d84fad8ed960562d001e90b))
+
 # [1.9.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.8.1...v1.9.0) (2022-02-01)
 
 
