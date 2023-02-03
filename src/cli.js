@@ -65,6 +65,9 @@ argv.command(
     if (fileExists('./package.json')) {
         bumpThatVesion('./package.json', argv._[1])
     }
+    if (fileExists('./metadata.json')) {
+        bumpThatVesion('./metadata.json', argv._[1])
+    }
 
   }
 ).argv;
