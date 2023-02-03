@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.10.0...v1.11.0) (2023-02-03)
+
+
+### Features
+
+* include metadata.json in assets ([b3caa3a](https://github.com/Lundalogik/semantic-release-laravel/commit/b3caa3a3a0f20bc56c788becde273d6c4a59b625))
+
 # [1.10.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.9.0...v1.10.0) (2023-02-03)
 
 
