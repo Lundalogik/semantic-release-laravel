@@ -21,7 +21,7 @@ module.exports = {
     [
       '@semantic-release/git',
       {
-        assets: ['composer.json', 'package.json'],
+        assets: ['composer.json', 'package.json', 'metadata.json'],
         message:
           'chore(release): ${nextRelease.version}\n\n${nextRelease.notes}',
       },
