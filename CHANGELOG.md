@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.11.0...v1.12.0) (2026-02-23)
+
+
+### Features
+
+* add skip ci tag to commit messages to prevent doubled workflow dispatches ([cb72232](https://github.com/Lundalogik/semantic-release-laravel/commit/cb722325e4d15ad6d2727835cf47461bee1e3c48))
+
 # [1.11.0](https://github.com/Lundalogik/semantic-release-laravel/compare/v1.10.0...v1.11.0) (2023-02-03)
 
 
